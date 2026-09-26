@@ -1,24 +1,51 @@
-// Initialize button with users' preferred color
-const changeColor = document.getElementById('changeColor');
+// Backend endpoint (FastAPI running locally)
+const API_URL = 'http://localhost:8000/v1/analyze';
 
-chrome.storage.sync.get('color', ({ color }) => {
-  changeColor.style.backgroundColor = color;
+// Restore saved text and save on every edit so it survives closing the popup
+const textBox = document.getElementById('textBox');
+
+chrome.storage.local.get('textBoxContent', ({ textBoxContent }) => {
+  textBox.value = textBoxContent || '';
 });
 
-// When the button is clicked, inject setPageBackgroundColor into current page
-changeColor.addEventListener('click', async () => {
+textBox.addEventListener('input', () => {
+  chrome.storage.local.set({ textBoxContent: textBox.value });
+});
+
+// Send a dummy listing for the current tab to the backend and show the reply
+const analyzeButton = document.getElementById('analyze');
+
+analyzeButton.addEventListener('click', async () => {
   const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
 
-  chrome.scripting.executeScript({
-    target: { tabId: tab.id },
-    func: setPageBackgroundColor
-  });
-});
+  const dummyRequest = {
+    source: 'facebook_marketplace',
+    url: tab.url,
+    listing: {
+      title: 'Sunny 2BR apartment near downtown',
+      price: 900,
+      currency: 'USD',
+      description: 'Owner is out of the country. Send deposit via Zelle to hold.',
+      location: 'Vancouver, BC',
+      images: [],
+      seller: { name: 'Test Seller', profile_url: '', joined: '2026' }
+    }
+  };
 
-// The body of this function will be executed as a content script inside the
-// current page
-function setPageBackgroundColor() {
-  chrome.storage.sync.get('color', ({ color }) => {
-    document.body.style.backgroundColor = color;
-  });
-}
+  analyzeButton.disabled = true;
+  textBox.value = 'Sending request...';
+
+  try {
+    const response = await fetch(API_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(dummyRequest)
+    });
+    const data = await response.json();
+    textBox.value = `Status ${response.status}\n\n${JSON.stringify(data, null, 2)}`;
+  } catch (error) {
+    textBox.value = `Request failed: ${error.message}\n\nIs the backend running at ${API_URL}?`;
+  } finally {
+    analyzeButton.disabled = false;
+  }
+});

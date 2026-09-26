@@ -7,6 +7,39 @@ button {
   border-radius: 2px;
 }
 
+/* Popup max size is 800x600, so the text box fills it exactly */
+body {
+  margin: 0;
+}
+
+#textBox {
+  display: block;
+  box-sizing: border-box;
+  width: 800px;
+  height: 600px;
+  padding: 16px;
+  font: 16px system-ui, sans-serif;
+  border: none;
+  resize: none;
+  outline: none;
+}
+
+#analyze {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: auto;
+  padding: 0 16px;
+  color: white;
+  background-color: #3aa757;
+  cursor: pointer;
+}
+
+#analyze:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
 button.current {
   box-shadow: 0 0 0 2px white, 0 0 0 4px black;
 }
