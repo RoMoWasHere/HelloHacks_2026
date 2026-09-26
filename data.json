@@ -1,55 +1,139 @@
 [
-    {
-        "title": "UBC Ponderosa Commons Studio with Sea View",
-        "description": """Date: 8.10-9.7
-High-rise ocean view room for rent.
-This fully-equipped unit comes with complete kitchen appliances, including a stove, boiler, refrigerator and oven.
-The building features shared gym facilities and an on-site convenience store for your daily needs. You can enjoy unobstructed sea views directly from the room.""",
-        "price": 800,
-        "currency": "CAD",
-        "price_period": "month",
-        "location_text": "Vancouver, BC",
-        "latitude": 49.264452517665156,
-        "longitude": -123.25610024418194,
-        "image_urls": ["https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/738809676_1952033405515097_6819158017421451136_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=zo70dmVBwkUQ7kNvwFoE9Pg&_nc_oc=AdoZbfoglhrrs1MjB0GrEPDN2LtH-gqW8c1wWsKGPx7qmLFvDqNhGvRNDkDX623dK7Q&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=eSdLuwA0nVsb9izaZU0Dwg&_nc_ss=7b289&oh=00_AQIHNby9Uw6FVdjO24QQQRpVEFYbybX-nR4kQK9Ro55ECA&oe=6ABE1FD0",
-                        ""],
-        "source_url": "https://www.facebook.com/marketplace/item/1334848864834633/?ref=search&referral_code=null&referral_story_type=post"
-    },
-    {
-      "title": "Studio 1 Bath Apartment",
-        "description": "**One month FREE RENT!!!!**
-Bright Studio unit located at West End.
-With easy access to Sunset Beach, shops, sea wall , and green spaces, enjoy and experience diverse West End living at its finest.
-Rent: $1950 per month, heat and hot water included
-Move -in Date: Asap
-Minimum one year lease
-Kitchen appliances: Stove/Oven, Fridge, Dishwasher
-⭐ Special Offer: Sign an 18-month lease and receive an additional one month of free rent!
-Building:
-Common laundry
-Fob access
-Intercom/Buzzer system
-Pet-friendly (with restrictions)
-Underground and surface parking (extra fee, subject to availability)
-Locker (extra fee, subject to availability)
-*Credit and Reference check required
-**Renter's insurance required
-***No smoking, vaping, cannabis
-****No short term rentals",
-        "price": 1950,
-        "currency": "CAD",
-        "price_period": "month",
-        "location_text": "Vancouver, BC",
-        "latitude": 49.264452517665156,
-        "longitude": -123.25610024418194,
-        "image_urls": ["https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/724534661_4329314340640131_3672827059667003664_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=h4FX110uUigQ7kNvwF50BHl&_nc_oc=AdoOuuYBLop30ZXMtuAmL1ocXhmpqrZBy63w0PLewg9q3d41D_wRjyt9jfjzVv2KlFg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQLboDm0UNvzbP4vZCoW4Og56sq1D8GvI_KGSO6Bn-Zqrw&oe=6ABE128C",
-                       "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724292755_862553990230639_8805994449049313945_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=247b10&_nc_ohc=hTFJumUeg9gQ7kNvwENRjeW&_nc_oc=Adp8D4nYy5ylA25YoO0wpUdN0HIhAHHi9qHS-leHXKXZwjNszPJ4W7DioJJNerOgjPA&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQJHITZEnGUnfYE_ccksJHXTWcavPoBcsnt2FlsogDogRA&oe=6ABE2038",
-                       "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724493226_890212384115815_86409683648531315_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=8xp3B5OXiyYQ7kNvwE-t7t7&_nc_oc=AdoTeitzGwaSAoW_86dU1CDQyrLBMCHVBlrED2f9bktqJVAWdyCfjauaKGTy8yCpy34&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQLQf5z5DeasUuhb5NLNiZ0azSIThS_VGk7iH4tnyR1Vzw&oe=6ABDFE92",
-                       "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724361451_1381420547141586_839846991652348091_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=247b10&_nc_ohc=Q95xeDkTIMwQ7kNvwEkoFd9&_nc_oc=AdpA3GvaO1LICHvuwv7efcXLkMDltZj8GEB5I-D_abLwP47QztNfPzrQmcu3xbLwhHE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQIpLFTXGU-IOTT2prh3A-TMRlHPBkaBF8Gr7iLqDrc3jg&oe=6ABE1136",
-                       "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724133768_1362908522391164_6607221981965309600_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=247b10&_nc_ohc=TntK4AYUa-MQ7kNvwH0LA1k&_nc_oc=Adoz1kvebtaf4lVYfMZlOSNURQWmm_pglHhJ9Fv9jKsM32q4MO4tnqP6vYcYUQ1ip1A&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQL0dHuSyRNeDxDgHdOveoGdYxzvYltp-TkL-lbJwCDlWA&oe=6ABE28D6",
-                       "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724382083_1675285337020815_7122209441992487344_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=8H4xw7dA05UQ7kNvwHuehMe&_nc_oc=AdoJISrVPxw0BN4wTD4nL61JwF9AbWRIehqR3TXnIt3qLd5trLlRLgY3pFMM2Moj148&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQKwGq2BkfSt0qWlSVb7Cx85Hg-lkXO3oHhIKiJ9C_goBg&oe=6ABE247E",
-                       "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724390442_1037111308974780_3676267260882610290_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=g-Kt6n8UEiUQ7kNvwGDVq1T&_nc_oc=Adrie0h0ECO_aRg4Y4Ry4RUalBJWGvaW8saMrlhOEeOdlriglirMKssBqurJ8WH-aWY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQJmusatz3H0NPwCxErmDmis9n7ADiineS9_Mmucx4jd5Q&oe=6ABE0F52",
-                       "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724340391_1266866922190341_8916783495633796245_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=247b10&_nc_ohc=k4bqgUtSZxAQ7kNvwFpRH5C&_nc_oc=AdpGgPxT3zTwhtDjSwmWwy7Z10XbqkMUgPjV8FctD7_2O7AZbzle89-2fPhGCSymgSI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQLnlYVtz0fZV3ovMi4HLlZQvpx9OkOSR5UT9J5W680xvg&oe=6ABE1DCD"],
-        "source_url": "https://www.facebook.com/marketplace/item/2105755530290119/?ref=search&referral_code=null&referral_story_type=post"
-    }
+  {
+    "title": "UBC Ponderosa Commons Studio with Sea View",
+    "description": "Date: 8.10-9.7\nHigh-rise ocean view room for rent.\nThis fully-equipped unit comes with complete kitchen appliances, including a stove, boiler, refrigerator and oven.\nThe building features shared gym facilities and an on-site convenience store for your daily needs. You can enjoy unobstructed sea views directly from the room.",
+    "price": 800,
+    "currency": "CAD",
+    "price_period": "month",
+    "location_text": "Vancouver",
+    "latitude": 49.264452517665156,
+    "longitude": -123.25610024418194,
+    "image_urls": [
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/738809676_1952033405515097_6819158017421451136_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=zo70dmVBwkUQ7kNvwFoE9Pg&_nc_oc=AdoZbfoglhrrs1MjB0GrEPDN2LtH-gqW8c1wWsKGPx7qmLFvDqNhGvRNDkDX623dK7Q&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=eSdLuwA0nVsb9izaZU0Dwg&_nc_ss=7b289&oh=00_AQIHNby9Uw6FVdjO24QQQRpVEFYbybX-nR4kQK9Ro55ECA&oe=6ABE1FD0"
+    ],
+    "source_url": "https://www.facebook.com/marketplace/item/1334848864834633/"
+  },
+  {
+    "title": "Studio 1 Bath Apartment",
+    "description": "**One month FREE RENT!!!!**\nBright Studio unit located at West End.\nWith easy access to Sunset Beach, shops, sea wall , and green spaces, enjoy and experience diverse West End living at its finest.\nRent: $1950 per month, heat and hot water included\nMove -in Date: Asap\nMinimum one year lease\nKitchen appliances: Stove/Oven, Fridge, Dishwasher\n⭐ Special Offer: Sign an 18-month lease and receive an additional one month of free rent!\nBuilding:\nCommon laundry\nFob access\nIntercom/Buzzer system\nPet-friendly (with restrictions)\nUnderground and surface parking (extra fee, subject to availability)\nLocker (extra fee, subject to availability)\n*Credit and Reference check required\n**Renter's insurance required\n***No smoking, vaping, cannabis\n****No short term rentals",
+    "price": 1950,
+    "currency": "CAD",
+    "price_period": "month",
+    "location_text": "Vancouver",
+    "latitude": null,
+    "longitude": null,
+    "image_urls": [
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/724534661_4329314340640131_3672827059667003664_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=h4FX110uUigQ7kNvwF50BHl&_nc_oc=AdoOuuYBLop30ZXMtuAmL1ocXhmpqrZBy63w0PLewg9q3d41D_wRjyt9jfjzVv2KlFg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQLboDm0UNvzbP4vZCoW4Og56sq1D8GvI_KGSO6Bn-Zqrw&oe=6ABE128C",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724292755_862553990230639_8805994449049313945_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=247b10&_nc_ohc=hTFJumUeg9gQ7kNvwENRjeW&_nc_oc=Adp8D4nYy5ylA25YoO0wpUdN0HIhAHHi9qHS-leHXKXZwjNszPJ4W7DioJJNerOgjPA&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQJHITZEnGUnfYE_ccksJHXTWcavPoBcsnt2FlsogDogRA&oe=6ABE2038",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724493226_890212384115815_86409683648531315_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=8xp3B5OXiyYQ7kNvwE-t7t7&_nc_oc=AdoTeitzGwaSAoW_86dU1CDQyrLBMCHVBlrED2f9bktqJVAWdyCfjauaKGTy8yCpy34&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQLQf5z5DeasUuhb5NLNiZ0azSIThS_VGk7iH4tnyR1Vzw&oe=6ABDFE92",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724361451_1381420547141586_839846991652348091_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=247b10&_nc_ohc=Q95xeDkTIMwQ7kNvwEkoFd9&_nc_oc=AdpA3GvaO1LICHvuwv7efcXLkMDltZj8GEB5I-D_abLwP47QztNfPzrQmcu3xbLwhHE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQIpLFTXGU-IOTT2prh3A-TMRlHPBkaBF8Gr7iLqDrc3jg&oe=6ABE1136",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724133768_1362908522391164_6607221981965309600_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=247b10&_nc_ohc=TntK4AYUa-MQ7kNvwH0LA1k&_nc_oc=Adoz1kvebtaf4lVYfMZlOSNURQWmm_pglHhJ9Fv9jKsM32q4MO4tnqP6vYcYUQ1ip1A&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQL0dHuSyRNeDxDgHdOveoGdYxzvYltp-TkL-lbJwCDlWA&oe=6ABE28D6",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724382083_1675285337020815_7122209441992487344_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=8H4xw7dA05UQ7kNvwHuehMe&_nc_oc=AdoJISrVPxw0BN4wTD4nL61JwF9AbWRIehqR3TXnIt3qLd5trLlRLgY3pFMM2Moj148&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQKwGq2BkfSt0qWlSVb7Cx85Hg-lkXO3oHhIKiJ9C_goBg&oe=6ABE247E",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724390442_1037111308974780_3676267260882610290_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=g-Kt6n8UEiUQ7kNvwGDVq1T&_nc_oc=Adrie0h0ECO_aRg4Y4Ry4RUalBJWGvaW8saMrlhOEeOdlriglirMKssBqurJ8WH-aWY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQJmusatz3H0NPwCxErmDmis9n7ADiineS9_Mmucx4jd5Q&oe=6ABE0F52",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724340391_1266866922190341_8916783495633796245_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=247b10&_nc_ohc=k4bqgUtSZxAQ7kNvwFpRH5C&_nc_oc=AdpGgPxT3zTwhtDjSwmWwy7Z10XbqkMUgPjV8FctD7_2O7AZbzle89-2fPhGCSymgSI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQLnlYVtz0fZV3ovMi4HLlZQvpx9OkOSR5UT9J5W680xvg&oe=6ABE1DCD"
+    ],
+    "source_url": "https://www.facebook.com/marketplace/item/2105755530290119/"
+  },
+  {
+    "title": "3 Beds 3.5 Baths House",
+    "description": "$4,500 / 3br - 1200ft2 - 3.5WR utilities INCLUDED Ideal for Family / Roommates Douglas Park (Vancouver Douglas Park)\nBright garden level of a fully renovated character home / triplex.\n\nThe layout works equally well for a family or roommates, with three spacious bedrooms and a private full bathroom for each bedroom.\nCompletely renovated, large suite. Featuring 3 large bedrooms (can accommodate queen size beds) – each with its own full bathroom, plus a powder room off the living area. Large kitchen / dining / living areas, with easy to care for hardwood like flooring. Convenient full-size in-suite laundry. Radiant floor heating throughout.\n\nKitchen comes with new stainless steel appliances (gas stove, 36” fridge, dishwasher), marble look quartz countertops and lots of windows for extra brightness.\n\nPatio doors from the living area open onto a big paved patio with plenty of space for BBQing.\n\nLots of free street parking.\n\nConvenient location: Short walk to King Edward - Cambie Skytrain station, #25 King Edward and #17 Oak bus routes, VGH, BC Children’s & Women’s hospitals, shops, restaurants, cafes, transit (Oak Street and King Edward bus stops, one bus to UBC & downtown), Douglas Park, Hillcrest Aquatic Centre, Queen Elizabeth Park.\n\nGreat private and public, French/bilingual/English schools nearby: Emily Carr, L’Ecole Bilingue, Eric Hamber, York House, Little Flower Academy, Ecole Rose des Vents, Ecole Jules Verne, Sir Winston Churchill.\n\nAbsolutely No smoking in the home or on the property.\nAvailable November 1\nUtilities included\nSecurity deposit required\nReference check required",
+    "price": 4500,
+    "currency": "CAD",
+    "price_period": "month",
+    "location_text": "Vancouver",
+    "latitude": 49.25106119058267,
+    "longitude": -123.12531603840019,
+    "image_urls": [
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/807901011_2149576685658405_3480144633929681774_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=QjNFZTvzlxIQ7kNvwH_1Mic&_nc_oc=Adp3r7kb9tTm4pU06vwviAyPzfvb2JajQhLiCFM27buXqaL9YmwQinEXlPdxS973M_U&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=WaiJKxGn0gvG8zX2cGsOBQ&_nc_ss=7b2a8&oh=00_AQIMkxOy9ZikMCSq0l8GudcZCK5xJeMliZxDVz4LqiYuvQ&oe=6ABE1C55",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/807895351_4627805300831486_880652857982879943_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=247b10&_nc_ohc=DQ0Roe3X4VAQ7kNvwHIt66M&_nc_oc=Adq36_DJSO3CY8XsGoufxwbi9nXqNdABUMrrIjWK2o4fWgOQFPwWR5GmfZidHKxZ0yw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=WaiJKxGn0gvG8zX2cGsOBQ&_nc_ss=7b2a8&oh=00_AQIkq6WGoQEDSx8a_d7_HlC92Y8G0FAzY4LRiPN955RALQ&oe=6ABE23CE",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/806481120_1622836869366495_6345438310118553237_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=247b10&_nc_ohc=u_R-yY3UlZcQ7kNvwH9blvf&_nc_oc=AdrEZXM1GXP5vz37_XaAr7Ic1hBSzf8qR11SygQBu5US9b4EOVRgz9lPVAyPRMkBSuA&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=WaiJKxGn0gvG8zX2cGsOBQ&_nc_ss=7b2a8&oh=00_AQJdC_r_61x2X8X41ENAZbhSpBQ7j-07AYB06LEXgM6rYg&oe=6ABE20DF",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/807838039_1039626995736206_6375718824749399717_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=247b10&_nc_ohc=p4MT0d5TMwAQ7kNvwE2qhpj&_nc_oc=AdrQbL_JsE1rRECLW7UPf2I55Cj4jhB1XnDgLEVTJRHFOtRDn50VQw0QtIJM9LkCSaM&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=WaiJKxGn0gvG8zX2cGsOBQ&_nc_ss=7b2a8&oh=00_AQLtyYeKh73ZGIFylJVbwO3a6kV019n-61IZFXhSO6aO2A&oe=6ABDFCAB",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/807838063_2192674934666233_7664597283087399104_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=NIN0L4Eu3WgQ7kNvwGC2MHF&_nc_oc=AdqxJQ5QaUWZ8vz-U7r13kbbo83IJ7sCMzq3tWCierJwufIpN4HUaFtbwc-Pr1hIixs&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=WaiJKxGn0gvG8zX2cGsOBQ&_nc_ss=7b2a8&oh=00_AQLTxwuvml4ZVSmuJfXuWRQeyDqwP4Z4k_-tgb3myMJTkw&oe=6ABE2366",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/808144567_1066649473035817_963190677934524042_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=247b10&_nc_ohc=Qah6nWTHjqUQ7kNvwFuRcMl&_nc_oc=AdplPTLt6W8Su7UhWsBILWCVM5AxqOo4Jwu5gn9Vc24jjJHdMnnU_bNTFlGwX6fCULs&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=WaiJKxGn0gvG8zX2cGsOBQ&_nc_ss=7b2a8&oh=00_AQJkSRm-QFUj-pyJK1jxxrb4GnxPC7a224zby3MBqx0onA&oe=6ABE28BD",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/808072467_1326921035988152_4082461793259544351_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=_EYK1oxZwdMQ7kNvwF88AUg&_nc_oc=AdozQOXq_nYi4Mie89A3R5gJ82WJJXc2YFQ-paTINGuJhUnWVIJfhXRwVROL-X4_GUI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=WaiJKxGn0gvG8zX2cGsOBQ&_nc_ss=7b2a8&oh=00_AQLyNofXHoSOe20YqIzALnqMsWJhVF4kbsyT9iQgNp5fOA&oe=6ABDFD34",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/807881538_3653580924799479_4439563637528645131_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=247b10&_nc_ohc=m1IJwXL4-pgQ7kNvwE7hRWQ&_nc_oc=AdpjUxrtbwet4zqdP6A70OM3x-vzCoRX-h3ADu10QixySjDQw4j_HBOwlaclsUBAZH0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=WaiJKxGn0gvG8zX2cGsOBQ&_nc_ss=7b2a8&oh=00_AQLesqPybWb2H-Zuut32VJL3jObsoYsgo8l8_lCliQAd8A&oe=6ABE04B0"
+    ],
+    "source_url": "https://www.facebook.com/marketplace/item/2179229912631318/"
+  },
+  {
+    "title": "2 Bed 1 Bath - House",
+    "description": "216X 49th Ave Vancouver Brand New Laneway House For Rent\n$2200/month plus BC Hydro and internet. Water included in the rent.\nNEWLY Custom Built 2-Level Laneway House with a balcony. Two Bed One Bath laneway House with a balcony.\nLocated in a peaceful neighbourhood on 49th ave, walking distance to Victoria Street; E. 49th Street; Killarney Community Centre.\nThis is a cozy suite with private separate entrance. Natural lights from three different orientations and comfort to the entire home. Hardwood flooring and Security Alarm system. Stainless modern kitchen with NEW high-quality appliances, stove, fridge and countertops. Full-size shower room. In- suite laundry.\nExcellent condition throughout! Truly Perfect home for single or couples.\nSchool Resources : Close to Sir Charles Kingsford-Smith Elementary; David Thompson Secondary. French Immersion to Laura Secord Elementary & Churchill Secondary.\n25 min to UBC\n15 min to Metrotown\n15 min to Langara Station (Canada Line)\n15 min to Commercial-Drive Station (Expo Line & Millennium Line)\n10 min walk to lots of stores and restaurants (McDonald's, Tim Hortons, London Drugs, Starbucks, etc.)\nQuiet neighbourhood and convenient location.\nStreet parking at 50th ave available.\nAvailable Now.\nOne year fixed term lease minimum;\nNo dogs please. No smoking please.\nReference check, employment check and credit check needed.\nRent: $2200/month plus BC Hydro and internet.\nPlease email to book your private viewing appointment. Please also introduce yourself a little bit in the email.\nThank you",
+    "price": 2200,
+    "currency": "CAD",
+    "price_period": "month",
+    "location_text": "Vancouver",
+    "latitude": 49.22499258189966,
+    "longitude": -123.06332960278688,
+    "image_urls": [
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/819379349_10242357949994043_1013581966686767466_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=454cf4&_nc_ohc=7_dcVVNWXqgQ7kNvwG1qv9f&_nc_oc=Adoq4wkHFZPKsQH3GOZAViN2HX80y0pZ7aoxnaD6xDXuiu527atdXndOlz0HfU1bnsk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=_in5UJ_VPkEPklC5mEsuOQ&_nc_ss=7b2a8&oh=00_AQIcaq4Y7cDUAwXXH_6BmVeZX9tuNtYklLuk2chTskTgZg&oe=6ABE2750",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/817540391_10242357888312501_2104019172074448044_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s960x960&_nc_cat=110&ccb=1-7&_nc_sid=946e27&_nc_ohc=xBtOxi0EEs4Q7kNvwES7e8x&_nc_oc=Adrwa9vtr-Kg_C-KkMloxTxjrhGqssD0ReG0p-7oFQEB0nqM-6uxB2avnpEQdqT7HKA&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=_in5UJ_VPkEPklC5mEsuOQ&_nc_ss=7b2a8&oh=00_AQK5afhsHkbZZ8Pk4nPp4jvWKYsnCXvz6I-tVI7njdnD3g&oe=6ABE34CB",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/817518931_10242357887992493_5743690666667547868_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=946e27&_nc_ohc=MAjUAht-S30Q7kNvwH6oymH&_nc_oc=AdpKr4gfBPgOCYI8bBtxY2EeUk4LR-7xujvLSY2UwVhytC0VU4WGicbCqGNNCRAttUM&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=_in5UJ_VPkEPklC5mEsuOQ&_nc_ss=7b2a8&oh=00_AQKy7md5KQZ8cOhGwh1Oeb9g10Uy_ZX713ZZqKvzJyOT0g&oe=6ABE0BAB",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/818203715_10242357888072495_2258267815053926323_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=946e27&_nc_ohc=EeSfpdDsNdwQ7kNvwG5rJZL&_nc_oc=Adp7HKPdx_ODXmybzaDlkaRz80TFddeop4mKDuDRG_ey3p8h-MgEpDkVVW_DynD0c6E&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=_in5UJ_VPkEPklC5mEsuOQ&_nc_ss=7b2a8&oh=00_AQLa4KB_AjaiHCA-DIbbIWRreJnsKN9xkD_zKHYKNdwl7A&oe=6ABE0183",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/819335789_10242357887872490_278848747869874245_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=946e27&_nc_ohc=DCXmxU0VcsUQ7kNvwHSximX&_nc_oc=AdoLli6SDdB-INupKXEnUCNfHAHxye62tuPHmcVUBEGzAZrtChKmvjXXPmr-RBu9pvk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=_in5UJ_VPkEPklC5mEsuOQ&_nc_ss=7b2a8&oh=00_AQK9pV4yR4KKMim7SnhMXUnQvIevD2gZKI2IV8pXpu8RnA&oe=6ABE2E29",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/817867515_10242357887672485_6831958413273113406_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=946e27&_nc_ohc=Ud4miA3_ZWgQ7kNvwFFBBBh&_nc_oc=AdoovGA07LIhnfEc3lDkQVz_RLAy5SHLqye5fwdkXlN-TW8Z6oRo16VMr6_S5Z6XKXM&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=_in5UJ_VPkEPklC5mEsuOQ&_nc_ss=7b2a8&oh=00_AQJKjfl816zCwIJvPmAjIjW-ncrEnjMODvcGCSeLS5aX1Q&oe=6ABE1664",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/796439307_10242357888232499_111673339684336142_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=946e27&_nc_ohc=H1xQRkKwDgoQ7kNvwEArNma&_nc_oc=AdpjquVFiwLBpA0VWLMfh1_cE1Yv7Rtimi0SNnphWd9PJDxUo-Wlc0XPcGW-lE2hBsA&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=_in5UJ_VPkEPklC5mEsuOQ&_nc_ss=7b2a8&oh=00_AQJKWZwU6O2WqjFtzbDvV047HL1Y_pq--AyijFmEOJnbvA&oe=6ABE3067",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/794413349_10242357888192498_6419827268048141473_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=946e27&_nc_ohc=PvukiIoOBb4Q7kNvwEwI6ym&_nc_oc=AdqfzuVG8-BpeInZ1O8fJ4dmPEsOueTiQrzv7SGVf8ugaC2T9W0l4mO_LznLBtEW8RQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=_in5UJ_VPkEPklC5mEsuOQ&_nc_ss=7b2a8&oh=00_AQLg4jySEdsOkfxCDw4jrUbtTMuDkCYtSORAZNb9dL9R3g&oe=6ABE169F"
+    ],
+    "source_url": "https://www.facebook.com/marketplace/item/1789019229189074/"
+  },
+  {
+    "title": "2 Beds 1 Bath Apartment",
+    "description": "Clean, modern 2 bedroom suite on quiet street in best part of Kitsilano. Three blocks to Broadway restaurants, shopping; 10-min. bus ride to UBC. Bedrooms are 11\" x 8' 5\" and 10' 4\" x 8' 8\". Hardwood floor, granite countertop. Includes new stove, washer/dryer, fridge and dishwasher. On-demand hot water never runs out. Cable and wi-fi available, utility costs shared. Suitable for one or two. No smoking, no pets. $2200 a month, or $1500 for a single tenant. References preferred. Available Oct. 1.",
+    "price": 2200,
+    "currency": "CAD",
+    "price_period": "month",
+    "location_text": "Vancouver",
+    "latitude": 49.261860011751374,
+    "longitude": -123.17277605860443,
+    "image_urls": [
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/795661504_2486431081882770_2439066598973846357_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=4gGtCD-egoAQ7kNvwFQkl_x&_nc_oc=AdppKWG7uTvCg6DRwlzx7xeglBZG3_QMXQNj6FQSh5yl6-hBzWcQI7YlodYsobXSKNM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=uFjGKo4k_bpqjrD1ob8ozw&_nc_ss=7b2a8&oh=00_AQIyS6WLinq0CzphTyfI35UIONhfSb2L-0FTw5NoKI2RIQ&oe=6ABE2C17",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/820003232_2553384508461514_6361218888830400387_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=247b10&_nc_ohc=R52K068cAh8Q7kNvwEYKcua&_nc_oc=Adq0rnROzlrsp4oNPRku8R2EJk7uxMFeBZeswwZGzg7Qq37HmJ4SW4gf_Z25ttGH1OY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=uFjGKo4k_bpqjrD1ob8ozw&_nc_ss=7b2a8&oh=00_AQKB4V_OoB83FELTwfBjQFHo0hBJA57mFXCxJfgb-tzz9w&oe=6ABE16ED",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/819064455_2389567245202794_7050769576988700494_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=WM-EJLVgoy4Q7kNvwEWEJo-&_nc_oc=AdouNIxo6Tqn-qqtcotOJPKGuwEnfgb_pDI5e0llqMamSECIQ0eSH3xFlrrVvw5FWZ8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=uFjGKo4k_bpqjrD1ob8ozw&_nc_ss=7b2a8&oh=00_AQIyduqCHxEwmw6OD8eOxt5sfjL-M5pfGPJcaui4_EvapA&oe=6ABE351A",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/818131539_1604237494818867_1035038552686281739_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=247b10&_nc_ohc=CdLBoty0olEQ7kNvwEoqbks&_nc_oc=AdqCCsrlt1tHijXDlW8e7Z3avPTGZE9IrfWi-VyNM4nC9PaOuRzx7sLCLM8ScdJHyrk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=uFjGKo4k_bpqjrD1ob8ozw&_nc_ss=7b2a8&oh=00_AQI5dRd4qfo2nI6AkGGA_c3KvQo81_iUwR77q2GCLI_aTw&oe=6ABE1697",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/817668246_1603165144846160_2294508684035603619_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=247b10&_nc_ohc=xhX3nxjVVTMQ7kNvwEs5hth&_nc_oc=AdqktoaUGSoeiWbdZ07Xu0tDxnbcnEseb2ULYePigEyDSSaqA-aDAsqXO7-t0ENpTXI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=uFjGKo4k_bpqjrD1ob8ozw&_nc_ss=7b2a8&oh=00_AQIOb-BOtF3M2muq9b9Ljeh9IJrJYbbJwvC_yvMfL9qlgg&oe=6ABE07D8"
+    ],
+    "source_url": "https://www.facebook.com/marketplace/item/1044498308413138/"
+  },
+  {
+    "title": "2 Beds 1 Bath - Apartment",
+    "description": "2090 Balsam St, Vancouver\nThis 2 bed, 1 bath home is conveniently located in the heart of Kitsilano where virtually everything is just beyond your doorstep. Safeway, Shoppers Drug Mart and Wholefoods are all within a 5 mins walk. The many restaurants and trendy shops on bustling 4th Ave are also just steps away. Kits Beach is a 10 mins stroll.\nThis home is both bright and spacious. There is a large living room with big windows letting in plenty of natural light. Off of that is a cozy dining area. The kitchen is functional and has a new oven/stove. The 2 bedrooms are generous in size. The bathroom is a tub/shower combo.\nThere is a first come first served outdoor parking lot for the building as well as street parking. Laundry is shared.\n*********AVAILABLE OCTOBER 1*********\nUnfurnished\nNo Pets\nLease: 1 YR Then Month To Month\nNo Smoking\nCredit Check Required\nTenant’s Insurance Required\nNo Move In Fee\nUtilities Extra",
+    "price": 2650,
+    "currency": "CAD",
+    "price_period": "month",
+    "location_text": "Vancouver",
+    "latitude": 49.26763,
+    "longitude": -123.15969,
+    "image_urls": [
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/517716261_10163453870740539_3133204902357870180_n.jpg?stp=dst-jpg_tt6&cstp=mx1290x1697&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=946e27&_nc_ohc=X8Rk8co4JHkQ7kNvwHJIcVo&_nc_oc=AdpR3ql9D9anO8ShC6ozMWoZFE4riYgdWaNcUFf5_n_w-UR5RBDbWT9GQ75mWLMFYZI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=zjawrU26Xg0wXtnrvEHvRQ&_nc_ss=7b2a8&oh=00_AQJOsIz-7GHwUGqwHT2SfsYJIqB-j0aASwPuusyF1SiHsw&oe=6ABE20E3",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/517015622_10163453870725539_7877108742965941545_n.jpg?stp=dst-jpg_tt6&cstp=mx1290x1710&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=946e27&_nc_ohc=i0KQ-SDViOoQ7kNvwGSRrhZ&_nc_oc=Adpe9y6JhxBEkrNlkEaEncWy5JubbBDx1TPCaS84i26Ngas6R8yej9x6LLoZJjF6jX0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=zjawrU26Xg0wXtnrvEHvRQ&_nc_ss=7b2a8&oh=00_AQIIhY9Oc1uMzqmD1lb6QKFCiBu98jBeP4FoWtEAxzIyfw&oe=6ABE2912",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/516913257_10163453870320539_7928831858512663224_n.jpg?stp=dst-jpg_tt6&cstp=mx1290x1709&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=946e27&_nc_ohc=TGQLs_pnixsQ7kNvwHvEJir&_nc_oc=AdoQdV_aPjol1AqwWgB6hY8tvQCJKbZiLcNeUEiTjPzVa2lKlJity7GPpwr780df30s&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=zjawrU26Xg0wXtnrvEHvRQ&_nc_ss=7b2a8&oh=00_AQJ1yjh-Lc2C947h95qTOvYu-XQ0qdVRuiwu_FUmu-YjBg&oe=6ABE16F7",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/516829179_10163453870545539_7590946192517721948_n.jpg?stp=dst-jpg_tt6&cstp=mx1290x1709&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=946e27&_nc_ohc=mn8tz7NpmpAQ7kNvwFJLYdH&_nc_oc=AdrhnfP6qWXnSDnFhxuaJU_hba9P9Ig3BZX--M4AE5jsZzwzwco5WOV4r-XJutu9t0w&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=zjawrU26Xg0wXtnrvEHvRQ&_nc_ss=7b2a8&oh=00_AQLhKTmWhWGTYbnCcmXuK40IAZ3W2qrhYczC0RHHKx76dQ&oe=6ABE1C1F",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/518075133_10163453870450539_8452742671989085192_n.jpg?stp=dst-jpg_tt6&cstp=mx1290x945&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=946e27&_nc_ohc=neXA9NLVLxcQ7kNvwEukNZQ&_nc_oc=AdqvCunS7zY81D1FOiYEq_X1NOqH5TQknHOPjFPDw6JPLPQMRHlyD8jDn6P8v0ahDUY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=zjawrU26Xg0wXtnrvEHvRQ&_nc_ss=7b2a8&oh=00_AQIZVnDWbyrZWrr9jI6FXSntMDjzGsGosp3dxJAim49fBQ&oe=6ABE12B5",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/517565753_10163453870660539_7974106619108772393_n.jpg?stp=dst-jpg_tt6&cstp=mx1290x1709&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=946e27&_nc_ohc=djbf9d4VT4QQ7kNvwHExvMu&_nc_oc=AdrMLZYEALwDTlpIyo1uclhCZ_jCXAeZYqjd9VmTlTmwc7EYSlbIdIKWB9wtNFItTss&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=zjawrU26Xg0wXtnrvEHvRQ&_nc_ss=7b2a8&oh=00_AQL2zqeaKmLak1zEYO-eZlUbZpuFIAb12pEY1WTbigA44A&oe=6ABE0B99",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/518331822_10163453870585539_6197898074525501045_n.jpg?stp=dst-jpg_tt6&cstp=mx1290x1697&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=946e27&_nc_ohc=G5hYVEPrPYMQ7kNvwGRSZ7D&_nc_oc=AdrzObS8EQD5bgJA-bhJf9u1Pv_z0MmgJ5oyLtgoJFuVb0L3e2gwVcl_hmGBJQdzSW8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=zjawrU26Xg0wXtnrvEHvRQ&_nc_ss=7b2a8&oh=00_AQLDBFBUTjXAb1fRTI_4yPqu7sqP2rywhvo5TpBmuWv-Zg&oe=6ABE22DA"
+    ],
+    "source_url": "https://www.facebook.com/marketplace/item/1549994995587414/"
+  },
+  {
+    "title": "1 Bed 1 Bath Apartment",
+    "description": "Top floor west-facing modern apartment with A/C. Available Sept 1 for a 14-month lease with 2 months free. Free early move-in August 20 also available.\nAddress is 3619 Arbutus St\nhttps://19onthegreenway.com",
+    "price": 2950,
+    "currency": "CAD",
+    "price_period": "month",
+    "location_text": "Vancouver",
+    "latitude": 49.25248,
+    "longitude": -123.15305,
+    "image_urls": [
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/763945364_1064045449419518_368964481944204942_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=247b10&_nc_ohc=jD4vumBjF7sQ7kNvwHzQjSR&_nc_oc=AdqVL5puVNEbeHi6qTIKS0hwe8kScr7cckCnvxkVI8uEKwkuPT3mX0BDs7mioSB-Iro&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=jBMBc-L2lCSzH_wE2ef9aA&_nc_ss=7b2a8&oh=00_AQJEYnX5BzMvZvqbbLsw-HTCJp2hrkPvf34sk9mVt0pG1g&oe=6ABE08AA",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/755409118_4595544017333110_7690488097888017536_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=247b10&_nc_ohc=SB_ZxymMiUkQ7kNvwHEA4xT&_nc_oc=AdqbLRwEE2pWoFWcCEIHyZhaafyDogmwcL8jK7iCPtUKLx1UesaUh-tTxWR9cQD7tSE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=jBMBc-L2lCSzH_wE2ef9aA&_nc_ss=7b2a8&oh=00_AQIhpwesI07-h0NPLZxUaFH85nNC0PUtfoMfsq9Vt0JpiQ&oe=6ABE2290",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/759524181_1525417612604921_2449984522674593331_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=247b10&_nc_ohc=OT0jBWxPYC0Q7kNvwE9M-fT&_nc_oc=Ado22IXoORBCJTvOMEMRuJnRvN5pQIc4eLwF_D7mcrE43QtiTDVPuZpw-tr3CyzqMQ4&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=jBMBc-L2lCSzH_wE2ef9aA&_nc_ss=7b2a8&oh=00_AQIwR9inEonKexcFU5irRnSZLLs-EVf-0MuRuCA_dqdNUQ&oe=6ABE3AA6",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/756045834_1529695148295036_5546872025244614728_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=247b10&_nc_ohc=g5FXNHZOW0kQ7kNvwE02FZF&_nc_oc=AdpDnAPCR_qqy4_IOi6xki6Gc9rPBriNcIOnnzEapXBc0ySFbTBJ9430pmkqVx1tMQw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=jBMBc-L2lCSzH_wE2ef9aA&_nc_ss=7b2a8&oh=00_AQKdJNa-yWkX97iyNBrkdz75cwPDa0j-NYEHfAs4Jf5wow&oe=6ABE0B69",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/756959844_1026372620015340_9210346549412768758_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=247b10&_nc_ohc=zkHvYwD5kfgQ7kNvwGV-Njm&_nc_oc=AdpvNpHOmmlVotzoOoi5yje22Lat-iWOjPXvMWfLq_jX9oFFYb31HwoOvoTn9SoXIGI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=jBMBc-L2lCSzH_wE2ef9aA&_nc_ss=7b2a8&oh=00_AQIMIjl2Wa4pT6YCTJ9Ln3u9gQw_m8gB5TstYrYCtZHRng&oe=6ABE2001",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/758055852_1042089481535962_7733085154433002376_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=247b10&_nc_ohc=1_GF2utptw4Q7kNvwGy-pbm&_nc_oc=AdpmhMBjScl0upwsqXYp9G9Ba76sJ0OjSuwwajzIPUhSKvkksfz3rOX558l0wOAZZRU&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=jBMBc-L2lCSzH_wE2ef9aA&_nc_ss=7b2a8&oh=00_AQLsffWsI8jOhyufDhen7qZ6r_uVfil2FA5DXGL6Uhj0_A&oe=6ABE0E49",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/756495836_1528691972054630_2465891950252621357_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=104&ccb=1-7&_nc_sid=247b10&_nc_ohc=3aaFfiKdfXoQ7kNvwGs5tEy&_nc_oc=AdqacvCxMxonAlSrpdzav5Je-SqT948XD4JWU_xWyxkvM57mfsPHTfqQTYiYxY0Mg3c&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=jBMBc-L2lCSzH_wE2ef9aA&_nc_ss=7b2a8&oh=00_AQIUMlCvbFJNpzTRNiWM87K6V4TJnYJ3_nWLb2NiicHzJg&oe=6ABE1B36",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/756111737_4344822712434249_8315491444976379063_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=247b10&_nc_ohc=xMVD9eHhKJgQ7kNvwHtG7Fa&_nc_oc=Adryjo39TmENOTNKXSCpLVHdZ0arI6RHBgh6vrlgbllEYhWJAuYmWhe_LtduYTcPGFc&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=jBMBc-L2lCSzH_wE2ef9aA&_nc_ss=7b2a8&oh=00_AQK0FXykkgdglS_iN_aOOJY4gFH3_zVY15qDgycyKtZ-VQ&oe=6ABE198C",
+      "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/757213252_1035537412729736_5129548640474459155_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=Qx06FG6QRrgQ7kNvwGUjoqS&_nc_oc=AdoMBzTRR0IEzjpBTgLUQNZYUkt9sWwi3IHdUCBDGNZ7rMF5usZQElOaubAgd8ebKoE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=jBMBc-L2lCSzH_wE2ef9aA&_nc_ss=7b2a8&oh=00_AQIbrlELqZBqj8linEdci7Bza04Gsz0YcemMgrHgZPcVyA&oe=6ABE160D"
+    ],
+    "source_url": "https://www.facebook.com/marketplace/item/1393066869389132/"
+  }
 ]
