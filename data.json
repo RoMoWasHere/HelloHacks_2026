@@ -21,8 +21,8 @@
     "currency": "CAD",
     "price_period": "month",
     "location_text": "Vancouver",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 49.278719,
+    "longitude": -123.134411,
     "image_urls": [
       "https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/724534661_4329314340640131_3672827059667003664_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=h4FX110uUigQ7kNvwF50BHl&_nc_oc=AdoOuuYBLop30ZXMtuAmL1ocXhmpqrZBy63w0PLewg9q3d41D_wRjyt9jfjzVv2KlFg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQLboDm0UNvzbP4vZCoW4Og56sq1D8GvI_KGSO6Bn-Zqrw&oe=6ABE128C",
       "https://scontent-sea5-1.xx.fbcdn.net/v/t45.5328-4/724292755_862553990230639_8805994449049313945_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=247b10&_nc_ohc=hTFJumUeg9gQ7kNvwENRjeW&_nc_oc=Adp8D4nYy5ylA25YoO0wpUdN0HIhAHHi9qHS-leHXKXZwjNszPJ4W7DioJJNerOgjPA&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=a--c-QrMMIKB2lgmqsiDgQ&_nc_ss=7b289&oh=00_AQJHITZEnGUnfYE_ccksJHXTWcavPoBcsnt2FlsogDogRA&oe=6ABE2038",
@@ -476,7 +476,7 @@
     "longitude": -123.1386, 
     "image_urls": [], 
     "source_url": null, 
-    "Fake?": false },
+    "Fake?": true },
   {
     "title": "Furnished one-bedroom, available now",
     "description": "Fictional test listing. I am overseas and cannot meet for a viewing. The keys will be shipped after you send a wire transfer deposit before viewing.",
@@ -491,7 +491,7 @@
     "longitude": -123.1207,
     "image_urls": [],
     "source_url": null,
-    "Fake?": false
+    "Fake?": true
   },
   {
     "title": "Studio viewing appointment",
@@ -507,7 +507,7 @@
     "longitude": -123.1200,
     "image_urls": [],
     "source_url": null,
-    "Fake?": false
+    "Fake?": true
   },
   {
     "title": "Bright two-bedroom suite",
@@ -523,7 +523,7 @@
     "longitude": -122.9805,
     "image_urls": [],
     "source_url": null,
-    "Fake?": false
+    "Fake?": true
   },
   {
     "title": "Vancouver one-bedroom apartment",
@@ -539,6 +539,6 @@
     "longitude": -123.1000,
     "image_urls": [],
     "source_url": null,
-    "Fake?": false
+    "Fake?": true
   }
 ]
